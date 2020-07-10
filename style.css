@@ -1,0 +1,91 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+}
+
+body{
+    max-width: 900px;
+}
+
+h1{
+    color: #FFB300;
+    font-weight:800;
+    font-size: 89px;
+    Line-Height: 79px;
+}
+
+h2{
+    color: #FFB300;
+    font-weight:800;
+    font-size: 25px;
+    Line-Height: 79px;
+}
+
+img{
+    width: 883px;
+    height: 374px;
+}
+
+p{
+    font-size: 21px;
+    font-weight: 600;
+    Line-height: 1.61rem;
+    Color: black;
+}
+
+.propietario{
+    text-align: end;
+    color: black;
+    font-size: 21px;
+}
+
+.propietario p{
+    font-weight: 900;
+}
+
+.paragrafo{
+    margin: 34px 0;
+}
+
+.tempo{
+    margin: 34px 0;
+    font-size: 21px;
+    font-weight: 500;
+    border-top: solid 3px gray;
+    border-bottom: solid 3px gray;
+}
+
+.tempo b{
+    font-weight: 900;
+}
+
+ul, ol{
+    font-size: 21px;
+    font-weight: 600;
+    line-height: 1.61rem;
+}
+
+ol li{
+   padding-top: 1.61rem; 
+}
+
+
+.pasos{
+    border-top: solid 3px gray;
+    border-bottom: solid 3px gray;
+}
+
+.video{
+    width: 883px;
+    height: 497px;
+}
+
+.link{
+    margin: 1.61rem; 
+}
+
+.link a{
+    font-size: 21px;
+    font-weight: 900;
+    color: #0037B3;
+    text-transform: uppercase;
+}
